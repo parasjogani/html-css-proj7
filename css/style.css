@@ -25,20 +25,20 @@ nav {
 
 .nav-item {
     font-size: 18px;
-    font-family: 'Poppins',sans-serif;
     font-weight: 300;
+    font-family: 'Poppins',sans-serif;
     padding: 48px;
 }
 
 .active-item {
-    font-family: 'Fredoka One',sans-serif;
     color: #fe5e35;
+    font-family: 'Fredoka One',sans-serif;
 }
 
 
 .intro-section {
-    margin-left: 48px;
     display: flex;
+    margin-left: 48px;
 }
 
 .left-section {
@@ -47,10 +47,10 @@ nav {
 }
 
 .left-section h3 {
-    font-size: 32px;
-    font-family: 'Poppins',sans-serif;
-    font-weight: 400;
     display: flex;
+    font-size: 32px;
+    font-weight: 400;
+    font-family: 'Poppins',sans-serif;
 }
 
 .left-section h3 img {
@@ -60,8 +60,8 @@ nav {
 
 .left-section h1 {
     font-size: 58px;
-    font-family: 'Fredoka One',sans-serif;
     font-weight: 600;
+    font-family: 'Fredoka One',sans-serif;
 }
 
 .sub-headlines {
@@ -71,28 +71,28 @@ nav {
 .sub-headline {
     padding: 8px 0;
     font-size: 20px;
-    font-family: 'Poppins',sans-serif;
     font-weight: 600;
+    font-family: 'Poppins',sans-serif;
 }
 
 .sub-headline img {
     width: 5%;
     padding: 4px 4px;
     border-radius: 50%;
-    background: #fe5e35;
     margin-right: 14px;
+    background: #fe5e35;
 }
 
 .text {
     font-size: 16px;
+    margin-bottom: 36px;
     font-family: 'Poppins',sans-serif;
     color: #738081;
-    margin-bottom: 36px;
 }
 
 .action-btns .action-btn {
     padding: 4px 16px;
-     margin-right: 24px;
+    margin-right: 24px;
     font-size: 20px;
     border-radius: 30px;
     border: none;
@@ -148,10 +148,10 @@ nav {
     bottom: 190px;
     left: 116px;
     font-size: 48px;
+    font-weight: 300;
     z-index: 1;
     color: #ffffff;
     font-family: 'Fredoka One',sans-serif;
-    font-weight: 300;
 }
 
  
@@ -179,7 +179,7 @@ nav {
 
 .right-section .action-btn {
     padding: 4px 16px;
-     margin-right: 24px;
+    margin-right: 24px;
     font-size: 20px;
     border-radius: 30px;
     border: none;
