@@ -186,3 +186,34 @@ nav {
     background: #fe5e35;
     color: #ffffff;
 }
+
+
+/* media query */
+
+@media screen and (max-width:1200px) {
+    .intro-section{
+        flex-direction: column-reverse;
+    }
+
+}
+
+@media screen and (max-width:1020px) {
+    .nav-items .nav-item{
+        display: none;
+    }
+    
+}
+
+@media screen and (max-width:460px) {
+    .discount-content{
+        font-size: 12px;
+    }
+
+    .intro-section .left-section h1{
+        font-size: 56px;
+    }
+
+    .intro-section .left-section h3{
+        font-size: 18px;
+    }
+}
